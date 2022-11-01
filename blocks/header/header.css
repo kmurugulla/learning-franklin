@@ -38,6 +38,12 @@ header nav .nav-brand p {
   margin: 0;
 }
 
+/* set the nav-brand color to red*/
+header nav .nav-brand p a{
+  color: red;
+  pointer-events: none;
+}
+
 header nav .nav-brand img {
   width: 128px;
   height: auto;
@@ -191,7 +197,7 @@ header nav[aria-expanded='true'] .nav-tools li {
   }
 
   header nav .nav-brand {
-    flex: 0 0 150px;
+    flex: 0 0 200px;
   }
 
   header nav .nav-sections ul {
@@ -208,9 +214,9 @@ header nav[aria-expanded='true'] .nav-tools li {
   }
 
   header nav .nav-sections > ul > li {
-    padding: 0 16px;
+    padding: 0 20px;
     position: relative;
-    font-size: 16px;
+    font-size: 22px;
     margin: 0;
     cursor: pointer;
     padding-top: 0;
