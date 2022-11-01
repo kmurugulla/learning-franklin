@@ -1,4 +1,5 @@
-learningfranklin:
-  origin: https://main--learning-franklin--kmurugulla.hlx.page
-  source: /query-index.json
-  destination: /sitemap-en.xml
+sitemaps:
+  learningfranklin:
+    origin: https://main--learning-franklin--kmurugulla.hlx.live
+    source: /query-index.json
+    destination: /sitemap.xml
