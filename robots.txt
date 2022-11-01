@@ -1,0 +1,3 @@
+user-agent: *
+allow: /
+sitemap: https://main--learning-franklin--kmurugulla.hlx.live/sitemap.xml
